@@ -2,6 +2,7 @@
   "name": "medfiszki",
   "private": true,
   "version": "0.1.0",
+  "homepage": "https://filip-af.github.io/MedFiszki",
   "type": "module",
   "scripts": {
     "dev": "vite",
